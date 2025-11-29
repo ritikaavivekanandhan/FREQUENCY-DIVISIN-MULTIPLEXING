@@ -118,7 +118,11 @@ OUTPUT WAVEFORM
 <img width="1920" height="1200" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/9ea995cd-e29e-4757-bbc5-dc26b4fa6b46" />
 <img width="1920" height="1200" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/ba27f164-02cd-4b43-b35c-a6f91b84bae1" />
 <img width="1920" height="1200" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/e92589f2-92cc-40de-ae45-67ef485ab583" />
+
 CALCULATION
+
+![WhatsApp Image 2025-11-29 at 14 13 18](https://github.com/user-attachments/assets/0d84a207-aae9-4bb6-ab6e-97948ed39c1c)
+
 
 RESULT
 
