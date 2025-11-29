@@ -121,7 +121,7 @@ OUTPUT WAVEFORM
 
 CALCULATION
 
-![WhatsApp Image 2025-11-29 at 14 13 18](https://github.com/user-attachments/assets/0d84a207-aae9-4bb6-ab6e-97948ed39c1c)
+![WhatsApp Image 2025-11-29 at 15 49 38](https://github.com/user-attachments/assets/36461ef5-f86c-48fd-975e-94a7fabf8ea5)
 
 
 RESULT
